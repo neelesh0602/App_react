@@ -4,17 +4,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        black: "#000",
         white: "#fff",
-        "text-primary": "rgba(0, 0, 0, 0.87)",
-        firebrick: "#c92a2a",
         orange: "#f99a0e",
         skyblue: "#99d2f5",
         whitesmoke: "#eaeaea",
+        "text-primary": "rgba(0, 0, 0, 0.87)",
+        firebrick: "#c92a2a",
+        black: "#000",
       },
       fontFamily: {
-        montserrat: "Montserrat",
         "components-button-large": "Roboto",
+        montserrat: "Montserrat",
         comfortaa: "Comfortaa",
       },
     },
